@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.c9b1a52f.js",
-    "index.html": "/index.html",
-    "main.c9b1a52f.js.map": "/static/js/main.c9b1a52f.js.map"
+    "main.js": "/Router4/static/js/main.c9b1a52f.js",
+    "index.html": "/Router4/index.html",
+    "main.c9b1a52f.js.map": "/Router4/static/js/main.c9b1a52f.js.map"
   },
   "entrypoints": [
     "static/js/main.c9b1a52f.js"
