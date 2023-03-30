@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/Router4/static/js/main.c9b1a52f.js",
+    "main.js": "/Router4/static/js/main.d247753c.js",
     "index.html": "/Router4/index.html",
-    "main.c9b1a52f.js.map": "/Router4/static/js/main.c9b1a52f.js.map"
+    "main.d247753c.js.map": "/Router4/static/js/main.d247753c.js.map"
   },
   "entrypoints": [
-    "static/js/main.c9b1a52f.js"
+    "static/js/main.d247753c.js"
   ]
 }
